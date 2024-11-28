@@ -1,0 +1,10 @@
+.DS_Store
+
+/cache/*
+/cache/!index.html
+
+/logs/*
+/logs/!index.html
+
+/nbproject/
+.idea/*
